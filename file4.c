@@ -2,6 +2,7 @@
 #include <stdio.h>
 void main(){
 	printf("Hello world!");
-	printf("GOod morning");
+	printf("Good morning");
+	printf("Have a good day in lab");
 }
 
